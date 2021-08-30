@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ben, welcome to my GitHub profile!
 
 <!--
 **PhaZ90771/PhaZ90771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
