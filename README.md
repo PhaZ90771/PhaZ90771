@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-# What am I doing? (as of September 2021)
+# What am I doing? (as of August 2022)
 
 I am working on an indie project with a team of ~10 people. I am one of the two engineers on this project. We are using Unity. I have been working on this project since Fall 2020.
 
