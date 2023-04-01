@@ -24,8 +24,10 @@ I also like to work on side projects from time to time, but they get much less l
 
 ## My primary toolset includes:
 ### [Engine] [Unity](https://unity.com/)
+<a href="https://unity.com/"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a>
 <a href="https://learn.unity.com/u/benjaminshutt"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" height="50" /></a>
 ### [Language] [C#.NET](https://dotnet.microsoft.com/en-us/languages/csharp)
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a>
 ### [Code Editor] [Visual Studio](https://visualstudio.microsoft.com/)
 ### [Source Control] [GitHub](https://github.com)
 
