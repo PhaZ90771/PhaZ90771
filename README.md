@@ -24,7 +24,7 @@ I also like to work on side projects from time to time, but they get much less l
 
 ## My primary toolset includes:
 ### [Engine] Unity
-<a href="https://learn.unity.com/u/59eb0f7032b306001a628704" target="_blank"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" width="50"></a>
+<a href="https://learn.unity.com/u/59eb0f7032b306001a628704"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" width="50"></a>
 ### [Language] C#.NET
 ### [Code Editor] Visual Studio
 ### [Source Control] GitHub
