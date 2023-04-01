@@ -29,7 +29,9 @@ I also like to work on side projects from time to time, but they get much less l
 ### [Language] [C#.NET](https://dotnet.microsoft.com/en-us/languages/csharp)
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a>
 ### [Code Editor] [Visual Studio](https://visualstudio.microsoft.com/)
-### [Source Control] [GitHub](https://github.com)
+<a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a>
+### [Source Control] [Git](https://git-scm.com/)
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a>
 
 <!--
 **PhaZ90771/PhaZ90771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
