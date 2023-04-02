@@ -21,17 +21,30 @@ I am the primary Meetup host for a local game dev group. We meet bimonthly, host
 I also like to work on side projects from time to time, but they get much less love and attentions than my other activities.
 
 # Tools of the Trade
+> My primary toolset for game development
 
-## My primary toolset includes:
-### [Engine] [Unity](https://unity.com/)
-<a href="https://unity.com/"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a>
-<a href="https://learn.unity.com/u/benjaminshutt"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" height="50" /></a>
-### [Language] [C#.NET](https://dotnet.microsoft.com/en-us/languages/csharp)
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a>
-### [Code Editor] [Visual Studio](https://visualstudio.microsoft.com/)
-<a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a>
-### [Source Control] [Git](https://git-scm.com/)
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a>
+<table>
+  <tr>
+    <td>Engine</td>
+    <td><a href="https://unity.com/">Unity</a></td>
+    <td><a href="https://unity.com/"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a><a href="https://learn.unity.com/u/benjaminshutt"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" height="50" /></a></td>
+  </tr>
+  <tr>
+    <td>Lanuguage</td>
+    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#.NET</a></td>
+    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a></td>
+  </tr>
+  <tr>
+    <td>Code Editor</td>
+    <td><a href="https://visualstudio.microsoft.com">Visual Studio</a></td>
+    <td><a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a></td>
+  </tr>
+  <tr>
+    <td>Source Control</td>
+    <td><a href="https://git-scm.com">Git</a></td>
+    <td><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a></td>
+  </tr>
+</table>
 
 <!--
 **PhaZ90771/PhaZ90771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
