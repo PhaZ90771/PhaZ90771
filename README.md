@@ -27,22 +27,22 @@ I also like to work on side projects from time to time, but they get much less l
   <tr>
     <td>Engine</td>
     <td><a href="https://unity.com/">Unity</a></td>
-    <td><a href="https://unity.com/"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a><a href="https://learn.unity.com/u/benjaminshutt"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" height="50" /></a></td>
+    <td><a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a><a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Get started with Unity"><img src="https://user-images.githubusercontent.com/1004105/229316170-143c6c85-70ac-447a-ae7e-3d71d502192b.png" height="50" /></a>&nbsp;more to come soon...</td>
   </tr>
   <tr>
     <td>Lanuguage</td>
     <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#.NET</a></td>
-    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a></td>
+    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="C#.NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a></td>
   </tr>
   <tr>
     <td>Code Editor</td>
     <td><a href="https://visualstudio.microsoft.com">Visual Studio</a></td>
-    <td><a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a></td>
+    <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a></td>
   </tr>
   <tr>
     <td>Source Control</td>
     <td><a href="https://git-scm.com">Git</a></td>
-    <td><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a></td>
+    <td><a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" /></a></td>
   </tr>
 </table>
 
