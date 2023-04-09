@@ -27,7 +27,14 @@ I also like to work on side projects from time to time, but they get much less l
   <tr>
     <td>Engine</td>
     <td><a href="https://unity.com/">Unity</a></td>
-    <td><a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a><a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Get started with Unity"><img src="https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.2000x0x1.webp" height="50" /></a></a><a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Explore Unity"><img src="https://connect-prd-cdn.unity.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png.2000x0x1.webp" height="50" /></a>&nbsp;more to come soon...</td>
+    <td>
+      <a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=50&height=50" /></a>
+      <br />
+      <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Get started with Unity"><img src="https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.2000x0x1.webp" height="50" /></a>
+      <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Unity Essentials"><img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="50" /></a>
+      <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Explore Unity"><img src="https://connect-prd-cdn.unity.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png.2000x0x1.webp" height="50" /></a>
+      <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn: Learn Unity"><img src="https://connect-prd-cdn.unity.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png.2000x0x1.webp" height="50" /></a>
+      <br />more to come soon...</td>
   </tr>
   <tr>
     <td>Lanuguage</td>
