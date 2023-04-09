@@ -33,7 +33,7 @@ I also like to work on side projects from time to time, but they get much less l
       <table>
         <tr>
           <td>
-            <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn Pathway: Unity Essentials"><img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="50" /></a>
+            <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn Pathway: Unity Essentials"><img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="50" style="opacity: 10%" /></a>
           </td>
           <td>
             <a href="https://learn.unity.com/u/benjaminshutt" title="Unity Learn Mission: Get started with Unity"><img src="https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.2000x0x1.webp" height="50" /></a>
@@ -45,12 +45,12 @@ I also like to work on side projects from time to time, but they get much less l
     </td>
   </tr>
   <tr>
-    <td>Lanuguage</td>
+    <td>Language</td>
     <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#.NET</a></td>
     <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="C#.NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" /></a></td>
   </tr>
   <tr>
-    <td>Code Editor</td>
+    <td>Editor</td>
     <td><a href="https://visualstudio.microsoft.com">Visual Studio</a></td>
     <td><a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" /></a></td>
   </tr>
