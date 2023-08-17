@@ -2,11 +2,11 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-# What am I doing? (as of March 2023)
+# What am I doing? (as of August 2023)
 
-I am working on an indie project with a team of ~10 people. I am one of the two engineers on this project. We are using Unity. I have been working on this project since Fall 2020.
+I am developing my Unity skills through the Unity Pathways coursework, and am planning to get my Unity certification in order later this year once I've completed the Pathways coursework.
 
-Unfortunately, I am unable to share much at the moment, but hope to be able to link to our website in the near future. Once we are ready to start showing of our prototype.
+I am working on an indie project with a team of ~10 people. I am one of the two engineers on this project. We are using Unity. I have been working on this project since Fall 2020. Unfortunately, I am unable to share much at the moment, but hope to be able to link to our website in the near future once we are ready to start showing of our prototype.
 
 # Game Jams
 
