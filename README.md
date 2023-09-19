@@ -2,11 +2,13 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-# What am I doing? (as of August 2023)
+# What am I doing? (as of September 2023)
 
-I am developing my Unity skills through the Unity Pathways coursework, and am planning to get my Unity certification in order later this year once I've completed the Pathways coursework.
+Because of the recent news with Unity, I will be putting my personal efforts using Unity on an indefinite hiatus. I am in the process of researching alternative game engines, with my top contendors being Godot and Unreal.
 
-I am working on an indie project with a team of ~10 people. I am one of the two engineers on this project. We are using Unity. I have been working on this project since Fall 2020. Unfortunately, I am unable to share much at the moment, but hope to be able to link to our website in the near future once we are ready to start showing of our prototype.
+~~I am developing my Unity skills through the Unity Pathways coursework, and am planning to get my Unity certification in order later this year once I've completed the Pathways coursework.~~
+
+I am working on an indie team with a team size of ~10 people. I am one of the two engineers on this team.
 
 # Game Jams
 
@@ -26,10 +28,10 @@ I also like to work on side projects from time to time, but they get much less l
 <table>
   <tr>
     <td>Engine</td>
-    <td><a href="https://unity.com/">Unity</a></td>
-    <td>
-      <a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=100&height=100" /></a>
-      <a href="https://www.credly.com/badges/00930308-3198-454d-acf1-3f32512ae5c4/public_url" title="Unity Essentials Pathway"><img src="https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="100" /></a>
+    <td>TBD</td><!--<a href="https://unity.com/">Unity</a>--></td>
+    <td>TBD
+      <!--<a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=100&height=100" /></a>
+      <a href="https://www.credly.com/badges/00930308-3198-454d-acf1-3f32512ae5c4/public_url" title="Unity Essentials Pathway"><img src="https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="100" /></a>-->
     </td>
   </tr>
   <tr>
