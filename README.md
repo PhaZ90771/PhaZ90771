@@ -4,6 +4,8 @@
 
 # What am I doing? (as of September 2023)
 
+I've recently completed the <a href="https://www.freecodecamp.org/certification/PhaZ90771/foundational-c-sharp-with-microsoft" title="Foundational C# with Microsoft Certification">Foundational C# with Microsoft Certification</a>.
+
 Because of the recent news with Unity, I will be putting my personal efforts using Unity on an indefinite hiatus. I am in the process of researching alternative game engines, with my top contendors being Godot and Unreal.
 
 ~~I am developing my Unity skills through the Unity Pathways coursework, and am planning to get my Unity certification in order later this year once I've completed the Pathways coursework.~~
