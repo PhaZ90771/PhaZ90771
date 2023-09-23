@@ -37,7 +37,10 @@ I also like to work on side projects from time to time, but they get much less l
   <tr>
     <td>Language</td>
     <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#.NET</a></td>
-    <td><a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="C#.NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" /></a></td>
+    <td>
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="C#.NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" /></a>
+      <a href="https://www.freecodecamp.org/certification/PhaZ90771/foundational-c-sharp-with-microsoft" title="Foundational C# with Microsoft Certification">Foundational C# (Microsoft Certification)</a>
+    </td>
   </tr>
   <tr>
     <td>Editor</td>
