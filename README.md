@@ -2,19 +2,22 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-# What am I doing? (as of September 2023)
+# What am I doing? (as of February 2024)
 
-I've recently completed the <a href="https://www.freecodecamp.org/certification/PhaZ90771/foundational-c-sharp-with-microsoft" title="Foundational C# with Microsoft Certification">Foundational C# with Microsoft Certification</a>.
+I am working as an engineer on an indie team with a team size of ~10 people. We are focused on developing our skills and game prototypes.
 
-Because of the recent news with Unity, I will be putting my personal efforts using Unity on an indefinite hiatus. I am in the process of researching alternative game engines, with my top contendors being Godot and Unreal.
+Because of the uncertain future of Unity, I am shifting part of my focus to learning other game engines so as to diversify my game engine knowledge. Currently, I am learning Godot, and plan on learning Unreal as well as time allows.
 
-~~I am developing my Unity skills through the Unity Pathways coursework, and am planning to get my Unity certification in order later this year once I've completed the Pathways coursework.~~
-
-I am working on an indie team with a team size of ~10 people. I am one of the two engineers on this team.
+In 2023, I completed the <a href="https://www.freecodecamp.org/certification/PhaZ90771/foundational-c-sharp-with-microsoft" title="Foundational C# with Microsoft Certification">Foundational C# with Microsoft Certification</a>.
 
 # Game Jams
 
-I try to go to game jams about twice a year when the two big local game jams happen. I prefer going to in-person game jams, but sadly this hasn't been able to happen with the ongoing pandemic.
+I try to go to game jams about twice a year when the two big local game jams happen. I prefer going to in-person game jams, but sadly this was stopped during the pandemic. I've since started taking part in more online game jams.
+
+## Recent Game Jams Submissions
+* <b>Plaguedrasil</b><br/>
+<a href="https://itch.io/jam/pirate" title="Pirate Software Game Jam 14">Pirate Software Game Jam 14</a><br/>
+<a href="https://itch.io/jam/pirate/rate/2492654#post-9308290" title="Entry for the Pirate Software Game Jam 14">Jam Submission</a><br/>
 
 # Meetup Host
 
@@ -30,10 +33,22 @@ I also like to work on side projects from time to time, but they get much less l
 <table>
   <tr>
     <td>Engine</td>
-    <td>TBD</td><!--<a href="https://unity.com/">Unity</a>--></td>
-    <td>TBD
-      <!--<a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=100&height=100" /></a>
-      <a href="https://www.credly.com/badges/00930308-3198-454d-acf1-3f32512ae5c4/public_url" title="Unity Essentials Pathway"><img src="https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="100" /></a>-->
+    <td>
+      <a href="https://unity.com/">Unity</a>
+    </td>
+    <td>
+      <a href="https://unity.com/" title="Unity"><img src="https://cdn.bfldr.com/S5BC9Y64/as/xsqpvtw64jzk92vqqrm3t7f/Unity_-_Social_Profile_Icon?auto=webp&format=png&width=100&height=100" /></a>
+      <a href="https://www.credly.com/badges/00930308-3198-454d-acf1-3f32512ae5c4/public_url" title="Unity Essentials Pathway"><img src="https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" height="100" /></a><br/>
+    </td>
+  </tr>
+  <tr></tr>
+    <td>
+    </td>
+    <td>
+      <a href="https://godotengine.org/">Godot</a>
+    </td>
+    <td>
+      <a href="https://godotengine.org/"><img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" height="100"/></a>
     </td>
   </tr>
   <tr>
