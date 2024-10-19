@@ -4,9 +4,7 @@
 
 # What am I doing? (as of February 2024)
 
-I am working as an engineer on an indie team with a team size of ~10 people. We are focused on developing our skills and game prototypes.
-
-Because of the uncertain future of Unity, I am shifting part of my focus to learning other game engines so as to diversify my game engine knowledge. Currently, I am learning Godot, and plan on learning Unreal as well as time allows.
+I am working as a cofounder of a small indie team. We are focusing on preparing a game demo for the Steam Next Fest in June 2025.
 
 In 2023, I completed the <a href="https://www.freecodecamp.org/certification/PhaZ90771/foundational-c-sharp-with-microsoft" title="Foundational C# with Microsoft Certification">Foundational C# with Microsoft Certification</a>.
 
