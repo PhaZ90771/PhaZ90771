@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my GitHub profile
 
-# What am I doing? (as of February 2024)
+# What am I doing? (as of October 2024)
 
 I am working as a cofounder of a small indie team. We are focusing on preparing a game demo for the Steam Next Fest in June 2025.
 
